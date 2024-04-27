@@ -26,3 +26,18 @@ let sumNumber = 123
 let stringNumber = String(sumNumber)
 
 console.log(typeof stringNumber);
+
+
+//*************************************operation******************************************/
+
+let str1 = "Hello"
+let str2 = " Mr--saqi"
+let str3 = str1 + str2 
+
+console.log(str3);
+
+// console.log ("1"+2) 
+// console.log (1+"2")
+// console.log ("1"+2+2)
+// console.log (1+2+"2")
+// console.log(3+1*3%22);
