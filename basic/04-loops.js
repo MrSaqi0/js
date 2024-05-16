@@ -1,6 +1,6 @@
 // for loop
 
-for (let i = 8; i <= 8; i++) {
+for (let i = 2; i <= 8; i++) {
     for (let o = 1; o <= 10; o++)  {
         
         console.log(i + '*' + o + '=' + i*o);
@@ -9,15 +9,15 @@ for (let i = 8; i <= 8; i++) {
     
 }
 
-// while loop
+// // while loop
 
-while (condition) {
+// while (condition) {
     
-}
+// }
 
 
-//do while loop
+// //do while loop
 
-do {
+// do {
     
-} while (condition);
+// } while (condition);
