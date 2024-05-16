@@ -11,3 +11,13 @@ accountCity = "lahore"
 accountPassword = "22222"
 
 console.table([accountId, accountEmail, accountCity, accountPassword, accountState])
+// for (let i = 0; i < ; i++) {
+//     const element = array[i];
+    
+// }
+
+const user = {
+    id: accountId
+}
+
+console.log(user)
